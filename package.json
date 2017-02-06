@@ -1,0 +1,17 @@
+{
+	"name": "vscode-material-syntax-dark",
+	"version": "0.0.1",
+	"publisher": "woodywoodsta",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Syntax - Dark",
+				"uiTheme": "vs-dark",
+				"path": "./vscode-material-syntax-dark.tmTheme"
+			}
+		]
+	}
+}
