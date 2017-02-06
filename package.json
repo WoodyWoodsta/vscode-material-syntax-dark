@@ -1,47 +1,47 @@
 {
-	"name": "vscode-material-syntax-dark",
-	"displayName": "Material Syntax - Dark",
-	"description": "A clean, practical and darkened material design syntax theme for Visual Studio Code.",
-	"version": "0.0.3",
-	"publisher": "woodywoodsta",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/WoodyWoodsta/vscode-material-syntax-dark"
-	},
-	"bugs": {
-			"url": "https://github.com/WoodyWoodsta/vscode-material-syntax-dark/issues"
-	},
-	"categories": [
-		"Themes"
-	],
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Material Syntax - Dark",
-				"uiTheme": "vs-dark",
-				"path": "./vscode-material-syntax-dark.tmTheme"
-			}
-		]
-	},
-		"galleryBanner": {
-			"color": "#1E1E1E",
-			"theme": "dark"
-	},
-	"badges": [
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/version/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
-			"description": "Extension version"
-		},
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/installs/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
-			"description": "Extension installs"
-		},
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/rating/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
-			"description": "Extension rating"
-		}
-	]
+    "name": "vscode-material-syntax-dark",
+    "displayName": "Material Syntax - Dark",
+    "description": "A clean, practical and darkened material design syntax theme for Visual Studio Code.",
+    "version": "0.0.4",
+    "publisher": "woodywoodsta",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WoodyWoodsta/vscode-material-syntax-dark"
+    },
+    "bugs": {
+        "url": "https://github.com/WoodyWoodsta/vscode-material-syntax-dark/issues"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Syntax - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./vscode-material-syntax-dark.tmTheme"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#1E1E1E",
+        "theme": "dark"
+    },
+    "badges": [
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/version/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
+            "description": "Extension version"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/installs/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
+            "description": "Extension installs"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/rating/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
+            "description": "Extension rating"
+        }
+    ]
 }
