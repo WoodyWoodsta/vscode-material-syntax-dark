@@ -1,6 +1,6 @@
 {
 	"name": "vscode-material-syntax-dark",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "woodywoodsta",
 	"engines": {
 		"vscode": "*"
