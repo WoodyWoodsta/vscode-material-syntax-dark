@@ -32,15 +32,15 @@
 	},
 	"badges": [
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/version/{woodywoodsta}.{vscode-material-syntax-dark}.svg?style=flat",
+			"url": "https://vsmarketplacebadge.apphb.com/version/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
 			"description": "Extension version"
 		},
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/installs/{woodywoodsta}.{vscode-material-syntax-dark}.svg?style=flat",
+			"url": "https://vsmarketplacebadge.apphb.com/installs/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
 			"description": "Extension installs"
 		},
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/rating/{woodywoodsta}.{vscode-material-syntax-dark}.svg?style=flat",
+			"url": "https://vsmarketplacebadge.apphb.com/rating/woodywoodsta.vscode-material-syntax-dark.svg?style=flat",
 			"description": "Extension rating"
 		}
 	]
