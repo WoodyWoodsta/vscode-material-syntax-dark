@@ -1,3 +1,5 @@
+![vscode-material-syntax-dark-logo-300](https://cloud.githubusercontent.com/assets/8268040/23274624/55200250-f9fb-11e6-8a14-485da8658733.png)
+
 # VSCode Material Syntax **Dark**
 
 A clean, practical and darkened material design syntax theme for Visual Studio Code. Inspired by the much loved [Atom Material Syntax Dark](https://github.com/atom-material/atom-material-syntax-dark).
