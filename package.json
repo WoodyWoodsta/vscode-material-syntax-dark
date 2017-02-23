@@ -2,7 +2,7 @@
     "name": "vscode-material-syntax-dark",
     "displayName": "Material Syntax - Dark",
     "description": "A clean, practical and darkened material design syntax theme for Visual Studio Code.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "woodywoodsta",
     "repository": {
         "type": "git",
